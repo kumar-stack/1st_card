@@ -1,0 +1,51 @@
+.card{
+	display: flex;
+	justify-content: space-evenly;
+}
+.ok{
+	display: inline-block;
+    box-shadow: 1px 2px 3px 4px;
+}
+	.img{
+	width: 300px;
+	height: 300px;
+	border: double;
+}
+.ok1{
+	display: inline-block;
+    box-shadow: 1px 2px 3px 4px;
+}
+
+.img1{
+	width: 300px;
+	height: 300px;
+}
+.ok2{
+	display: inline-block;
+    box-shadow: 1px 2px 3px 4px;
+}
+	.img2{
+		width: 300px;
+		height: 300px;
+}
+
+.ok3{
+	display: inline-block;
+    box-shadow: 1px 2px 3px 4px;
+}
+.img3{
+	width: 300px;
+	height: 300px;	
+}
+
+/*.banner_img{
+	width: 500px;
+	height: 450px;
+	background: red;
+}*/
+
+body{
+/*	background: url('https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-scaled.jpg');
+	background-size: 100%;*/
+	background: #1877F2;
+}
